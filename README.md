@@ -6,4 +6,4 @@ Just something going on
 	
 Updates in stage
 	
-More updates in working directory
+More updates in working directory.
